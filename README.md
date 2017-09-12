@@ -1,6 +1,7 @@
 # step-by-step
 
 An example of a service, which "evolves" step by step.
+[Видео](https://www.youtube.com/watch?v=0ndWw1udpsA)
 
 ## Step 01. Preparation
 
